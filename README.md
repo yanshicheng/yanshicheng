@@ -14,7 +14,7 @@
 
 - :orange_book: [技术博客](https://www.cnblogs.com/yanshicheng/)：https://www.cnblogs.com/yanshicheng/
 
-- :hammer: [开源运维平台](http://www.pgoops.com)：http://www.pgoops.com
+- :hammer: [开源k8s管理平台 kube-nova](https://www.ikubeops.com)：https://www.ikubeops.com
 
 ###
 
